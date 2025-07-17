@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\Favorite;
+use App\Models\Favorite;
 use Illuminate\Support\Facades\Auth;
 //use Laravelista\Comments\Commentable;
 use Illuminate\Database\Eloquent\Model;
